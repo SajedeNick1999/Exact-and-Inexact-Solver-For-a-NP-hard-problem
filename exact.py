@@ -5,7 +5,7 @@ max=0
 
 trivial = Model()
 
-FileName="120--4-81"
+FileName="small"
 
 with open(FileName+".txt") as f:
     file=f.readlines()
