@@ -1,4 +1,4 @@
-# Exact-and-Inexact-Solver-For-a-NP-hard-problem
+# Exact and Inexact Solver For a NP-hard problem
 there is a NP-hard problem in 'AI_3891_PROJECT' and there is two type of solve for it:
 1)exact solution : for small instances
 2)inexact solution : for big instances
